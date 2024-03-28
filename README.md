@@ -1,9 +1,8 @@
 ![Example GIF](Media/background.gif)
 
 
-
 ### Hi there 👋
-
+![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-D8BFD8?style=flat)
 <!--
 **Kostasco/Kostasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
