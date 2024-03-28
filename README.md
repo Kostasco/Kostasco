@@ -5,8 +5,8 @@
 <!--
 https://img.shields.io/badge/Pronouns%20-%20He%2FHis?style=flat-square&label=Pronouns&labelColor=rgb(130%2C130%2C130)&color=rgb(60%2C150%2C255)
 -->
-![Pronouns Badge]([https://img.shields.io/badge/Pronouns-He/His-3C96FF?style=flat](https://img.shields.io/badge/Pronouns%20-%20He%2FHis?style=flat-square&label=Pronouns&labelColor=rgb(130%2C130%2C130)&color=rgb(60%2C150%2C255)
-)
+![Pronouns Badge][https://img.shields.io/badge/Pronouns-He/His-3C96FF?style=flat](https://img.shields.io/badge/Pronouns%20-%20He%2FHis?style=flat-square&label=Pronouns&labelColor=rgb(130%2C130%2C130)&color=rgb(60%2C150%2C255)
+
 <!--
 **Kostasco/Kostasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
