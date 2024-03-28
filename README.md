@@ -1,4 +1,4 @@
-![Example GIF](media/background.gif)
+![Example GIF](Media/backgroundgif.gif)
 
 
 
