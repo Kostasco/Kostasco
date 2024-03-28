@@ -1,4 +1,4 @@
-![Example GIF](Media/background.gif)
+![Example GIF](workflow/background.gif)
 
 
 ### Hi there 👋
