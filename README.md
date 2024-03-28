@@ -1,3 +1,7 @@
+![Example GIF](media/background.gif)
+
+
+
 ### Hi there 👋
 
 <!--
