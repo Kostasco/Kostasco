@@ -2,7 +2,8 @@
 
 
 ### Hi there 👋
-![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-D8BFD8?style=flat)
+
+![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-3C96FF?style=flat)
 <!--
 **Kostasco/Kostasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: He
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
