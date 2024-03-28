@@ -1,5 +1,4 @@
 <!--![Example GIF](workflow/background.gif)-->
-<img src="workflow/background.gif" alt="Example GIF" height="200"/>
 <p align="center">
   <img src="workflow/background.gif" alt="Example GIF" style="max-width:100%; height:auto; max-height:200px;">
 </p>
