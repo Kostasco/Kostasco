@@ -1,6 +1,5 @@
-<!--![Example GIF](workflow/background.gif)-->
+![Example GIF](workflow/background.gif)
 
-<br>
 <!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8[)](https://www.linkedin.com/in/konstantinos-kokkinoris)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-1DA1F2?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/SavvidouFoteini)
