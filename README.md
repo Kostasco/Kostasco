@@ -1,6 +1,9 @@
 <!--![Example GIF](workflow/background.gif)-->
-
+<p align="center">
 <img src="/workflow/background.gif" width="720" height="400"/>
+</p>
+
+<br>
 
 ### Hi there 👋
 <!--![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-D8BFD8?style=flat-label=Pronouns&labelColor=C0C0C0&color=3C96FF)-->
