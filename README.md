@@ -11,7 +11,8 @@
 [![Microsoft Badge](https://img.shields.io/badge/Microsoft-Profile-0078D7?style=flat&logo=microsoft&logoColor=white&color=0078D7[)](https://learn.microsoft.com/en-gb/users/kostasko-7046/achievements#trophies-section)
 
 ### Hi there 👋
-<!--![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-D8BFD8?style=flat-label=Pronouns&labelColor=C0C0C0&color=3C96FF)-->
+______________________________________________________________________________________________________________________________________________
+I am Kostas, and here you'll find a showcase of the projects I have worked on.
 ![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-3C96FF?style=flat)
 
 <!--
