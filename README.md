@@ -16,6 +16,7 @@ I am Kostas, and here you'll find a showcase of the projects I have worked on.
 
 ![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-3C96FF?style=flat)
 
+
 # 😊 About me
 I have experience in IT projects such as web design, integration of hardware data into the cloud eg SQL and coding in Python and C#.
 
