@@ -1,5 +1,5 @@
 <!--![Example GIF](workflow/background.gif)-->
-<img src="/workflow/background.gif" align="center" width="720" height="400"/>
+<img src="/workflow/background.gif" width="720" height="400" align="center"/>
 
 ### Hi there 👋
 <!--![Pronouns Badge](https://img.shields.io/badge/Pronouns-He/His-D8BFD8?style=flat-label=Pronouns&labelColor=C0C0C0&color=3C96FF)-->
